@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **yoav.sher11@gmail.com**
 
-- ⚡ Fun fact **In my free time, I like to climb, play my guitar and scuba dive**
+- ⚡ Fun facts: **In my free time I like to climb, play my guitar and scuba dive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
