@@ -5,7 +5,9 @@
 
 - 🌴 Proficient in building single-page apps
 
-- 🏆 I recently built a clone of Trello, check it out, it has everything! [Jello](https://jello-l37q.onrender.com/board/63355b9b857a720016c70bb7)
+- 🏆 Check out my latest projects:
+  * [Jello](https://jello-l37q.onrender.com/board/63355b9b857a720016c70bb7)
+  * [Slotify](https://slotify.onrender.com/)
 
 - 📫 You can reach me at **yoav.sher11@gmail.com**
 
